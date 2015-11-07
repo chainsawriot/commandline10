@@ -1,5 +1,10 @@
 # commandline10
-10 things people assume you know about the Unix commandline, but you know... or don't know.
+
+十種人人都覺得會用 Unix Command Line 的人都知的概念，而你知或者不知。
+
+## I/O Redirection
+
+Output redirection
 
 ## Pipe
 
@@ -19,3 +24,4 @@ The above chain of commands does the following
 6. sort the order with the most frequent words on top, and then
 7. return only the top 50
 
+Good Unix commands work as filter (a program to process a stream and generate another stream) and such design makes piping possible.
