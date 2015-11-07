@@ -2,6 +2,10 @@
 
 十種人人都覺得會用 Unix Command Line 的人都知的概念，而你知或者不知。
 
+由最淺到最深
+
+## File, stdin, stdout, stderr and "everything is a file"
+
 ## I/O Redirection
 
 Output redirection
@@ -25,3 +29,18 @@ The above chain of commands does the following
 7. return only the top 50
 
 Good Unix commands work as filter (a program to process a stream and generate another stream) and such design makes piping possible.
+
+## Process Control and Background / foreground
+
+## Mutiplexing
+
+## Customization
+
+## Sed & AWK / Perl and text editing
+
+## Filesystem Hierarchy Standard
+
+## Finding files
+
+## Parallel Processing
+
