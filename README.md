@@ -30,11 +30,11 @@ The above chain of commands does the following
 
 Good Unix commands work as filter (a program to process a stream and generate another stream) and such design makes piping possible.
 
-## Process Control and Background / foreground
-
-## Mutiplexing
+## Process Control, Background / foreground and Mutiplexing
 
 ## Customization
+
+## Interactive use and non-interactive use
 
 ## Sed & AWK / Perl and text editing
 
